@@ -36,4 +36,4 @@ ExpenseAI helps users monitor spending patterns, visualize category-wise expense
 
 ---
 
-Built with caffeine ☕ and questionable financial decisions.
+Built with Chicken Biryani and 5 human beings.
