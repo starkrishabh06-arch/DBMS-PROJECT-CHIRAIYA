@@ -42,21 +42,9 @@ A full-stack web application designed to help users efficiently manage, track, a
 * Database: MySQL
 * Server: Apache (XAMPP/WAMP)
 
-## 📊 Overview
+## 🎯 Objective
 
-ExpenseAI helps users monitor spending patterns, visualize category-wise expenses, and get quick insights through an AI assistant.
-
-## ⚙️ Usage
-
-1. Add expenses manually
-2. Let AI categorize (optional)
-3. View analytics on dashboard
-4. Ask questions in AI chat
-
-## 📝 Notes
-
-* Built as a lightweight personal project
-* Focused on simplicity and usability
+The goal of this project is to demonstrate how database-driven applications can be used to manage personal financial data effectively, while providing meaningful insights into spending behavior.
 
 ---
 
