@@ -2,26 +2,18 @@
 CSE B
 # ExpenseAI 💸
 
-A simple and intuitive expense tracking app with AI-powered insights.
+A full-stack web application designed to help users efficiently manage, track, and analyze their daily expenses. This project provides a simple and intuitive interface for recording financial activities, categorizing expenses, and gaining insights into spending habits.
 
 ## ✨ Features :
 
-1.Authentication (Login / Signup)
-
-
-2.Dashboard
-
-3.Expense Module (Add / Manage)
-
-4.Income Module (Add / Manage)
-
-5.Lending Module (Add / Manage)
-
-6.Analytics Module (Graphs & Insights)
-
-7.Reporting Module
-
-8.Settings Module
+* Authentication (Login / Signup)
+* Dashboard
+* Expense Module (Add / Manage)
+* Income Module (Add / Manage)
+* Lending Module (Add / Manage)
+* Analytics Module (Graphs & Insights)
+* Reporting Module
+* Settings Module
 
 ## 🟩 Web Installation and Setup Guide
 
@@ -45,9 +37,10 @@ A simple and intuitive expense tracking app with AI-powered insights.
 
 ## 🧠 Tech Stack
 
-* React (Frontend)
-* Inline styling (custom UI)
-* AI integration (Claude API)
+* Frontend: HTML, CSS, JavaScript
+* Backend: PHP
+* Database: MySQL
+* Server: Apache (XAMPP/WAMP)
 
 ## 📊 Overview
 
