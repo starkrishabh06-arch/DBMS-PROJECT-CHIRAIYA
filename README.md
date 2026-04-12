@@ -15,7 +15,7 @@ A full-stack web application designed to help users efficiently manage, track, a
 * Reporting Module
 * Settings Module
 
-## 🟩 Web Installation and Setup Guide
+## 🌐 Web Installation and Setup Guide
 
 1.Launch the XAMPP or WAMP Control Panel and start the Apache and MySQL services.
 
