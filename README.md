@@ -31,7 +31,7 @@ A full-stack web application designed to help users efficiently manage, track, a
 5.Create a new database and import the expenditure.sql file from the database folder.
 
 6.Navigate to the project in your browser:
-           http://localhost/Daily-Expense-Tracker-Using-PHP-and-MySQL-main
+           http://localhost/DBMS-PROJECT-CHIRAIYA-main
 
 7.Configure database connection settings in the .env file as needed.
 
