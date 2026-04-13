@@ -61,7 +61,7 @@
 
       <div class="card-visual">
         <div class="card-scanline"></div>
-        <img src="images/kaka.jpg" alt="ExpenseHeist" class="hero-img"/>
+        <img src="images/kaka1.jpg" alt="ExpenseHeist" class="hero-img"/>
         <div class="img-overlay"></div>
         <div class="card-badge top-left"><i class="ri-shield-keyhole-fill"></i><span>Encrypted</span></div>
         <div class="card-badge bottom-right"><span>Operation Active</span><span class="live-dot"></span></div>
