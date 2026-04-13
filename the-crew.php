@@ -93,7 +93,7 @@
         <div class="crew-avatar">TA</div>
         <div class="crew-info">
           <span class="crew-id">B124145</span>
-          <h3 class="crew-name">Tanisq Ahuja</h3>
+          <h3 class="crew-name">Tanishq Ahuja</h3>
           <span class="crew-branch">CSE — Section B</span>
         </div>
         <div class="crew-badge"><i class="ri-shield-user-line"></i></div>
