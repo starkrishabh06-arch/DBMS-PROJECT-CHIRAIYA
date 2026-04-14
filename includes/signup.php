@@ -100,7 +100,7 @@
         <div id="videoModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.9); z-index:999; justify-content:center; align-items:center;">
   
           <video id="termsVideo" width="70%" controls>
-            <source src="images/a.mp4" type="video/mp4">
+            <source src="images/video_2026-04-14_15-21-49.mp4" type="video/mp4">
           </video>
 
           <button onclick="closeVideo()" style="position:absolute; top:20px; right:30px; font-size:30px; background:none; border:none; color:white;">✕</button>
